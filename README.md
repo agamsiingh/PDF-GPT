@@ -15,8 +15,11 @@ A **Streamlit-based chatbot** that allows you to upload one or more PDF files an
 ---
 
 ## 🔹 Demo
-> [Insert your Streamlit Cloud or Hugging Face Space link here]  
-
+<img width="959" height="476" alt="Image" src="https://github.com/user-attachments/assets/7f557769-e498-4122-9b21-62dbbf8ca99e" /> 
+<br>
+<img width="959" height="448" alt="Image" src="https://github.com/user-attachments/assets/26b0e3b2-db97-49c1-b090-63e38be04e2a" />
+<br>
+<img width="959" height="475" alt="Image" src="https://github.com/user-attachments/assets/4465cb2b-c6c4-43f4-8250-88189bd8c253" />
 ---
 
 ## 🔹 How It Works
