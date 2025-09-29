@@ -17,7 +17,7 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_your_real_token_here"
 # Streamlit Page Setup
 # -----------------------
 st.set_page_config(page_title="📚 PDF Chatbot", layout="wide")
-st.title("📖 PDF GPT with Multiple PDFs")
+st.title("📖 PDF  with Multiple PDFs")
 st.write("Upload one or more PDFs and chat with them like ChatGPT 🤖")
 
 # -----------------------
