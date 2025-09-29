@@ -6,3 +6,6 @@ chromadb
 transformers
 sentence-transformers
 pypdf
+PyPDF2
+pandas
+numpy
