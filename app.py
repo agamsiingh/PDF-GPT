@@ -37,7 +37,7 @@ from transformers import pipeline
 # Config / Page Setup
 # -----------------------
 st.set_page_config(page_title="📚 PDF Chatbot", layout="wide")
-st.title("📖 PDF Chatbot (stable version)")
+st.title("📖 PDF Genius")
 st.write("Upload PDF(s). The app will create embeddings and let you ask questions.")
 
 # track temporary files so we can cleanup later
@@ -213,3 +213,4 @@ if st.session_state.qa:
         st.experimental_rerun()
 else:
     st.info("Upload PDFs on the left to get started.")
+
